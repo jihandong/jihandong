@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=jihandong&show_icons=true&count_private=true&theme=react&hide_border=true
+          options: username=jihandong&show_icons=true&count_private=true&hide_rank=true&theme=react&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 

@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/jihandong"><img alt="jhd's GitHub Stats" src="./profile/stats.svg" width="480"/></a>
-  <a href="https://github.com/jihandong"><img alt="jhd's Top Languages" src="./profile/top-langs.svg" width="280"/></a>
+  <a href="https://github.com/jihandong"><img alt="jhd's GitHub Stats" src="./profile/stats.svg" width="304"/></a>
+  <a href="https://github.com/jihandong"><img alt="jhd's Top Languages" src="./profile/top-langs.svg" width="300"/></a>
   
   <a href="https://github.com/jihandong">
     <picture>
