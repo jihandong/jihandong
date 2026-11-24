@@ -138,7 +138,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="124.36"
+          width="124.09"
           height="8"
           fill="#555555"
         />
@@ -146,9 +146,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="124.36"
+          x="124.09"
           y="0"
-          width="63.67"
+          width="64.03"
           height="8"
           fill="#DA5B0B"
         />
@@ -156,9 +156,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="188.03"
+          x="188.12"
           y="0"
-          width="32.67"
+          width="32.6"
           height="8"
           fill="#dc566d"
         />
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="220.7"
+          x="220.72"
           y="0"
-          width="17.19"
+          width="17.18"
           height="8"
           fill="#b2b7f8"
         />
@@ -176,7 +176,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.89"
+          x="227.9"
           y="0"
           width="15.95"
           height="8"
@@ -186,9 +186,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.83999999999997"
+          x="233.85"
           y="0"
-          width="15.36"
+          width="15.35"
           height="8"
           fill="#1e4aec"
         />
@@ -208,7 +208,7 @@
           data-testid="lang-progress"
           x="242.67999999999998"
           y="0"
-          width="13.41"
+          width="13.44"
           height="8"
           fill="#3572A5"
         />
@@ -216,9 +216,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.08999999999997"
+          x="246.11999999999998"
           y="0"
-          width="12.51"
+          width="12.5"
           height="8"
           fill="#00ADD8"
         />
@@ -226,9 +226,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.59999999999997"
+          x="248.61999999999998"
           y="0"
-          width="11.4"
+          width="11.39"
           height="8"
           fill="#3c5caa"
         />
@@ -239,28 +239,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 49.74%
+        C 49.63%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 25.47%
+        Jupyter Notebook 25.61%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#dc566d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Standard ML 13.07%
+        Standard ML 13.04%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#b2b7f8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Verilog 2.88%
+        Verilog 2.87%
       </text>
     </g>
   </g><g transform="translate(0, 100)">
@@ -274,7 +274,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#1e4aec" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Scheme 2.15%
+        Scheme 2.14%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -288,7 +288,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 1.36%
+        Python 1.38%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
